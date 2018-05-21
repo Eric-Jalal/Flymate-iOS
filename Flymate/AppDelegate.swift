@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Flymate
 //
-//  Created by NouriMac on 5/20/18.
-//  Copyright © 2018 NouriMac. All rights reserved.
+//  Created by AmirMacbook on 5/20/18.
+//  Copyright © 2018 AmirMacbook. All rights reserved.
 //
 
 import UIKit
